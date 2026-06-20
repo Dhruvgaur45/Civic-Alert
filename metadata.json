@@ -1,0 +1,6 @@
+{
+  "name": "CivicAlert",
+  "description": "A full-stack civic issue reporting platform enabling citizens to report community issues and receive instant push alerts on connected devices.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
